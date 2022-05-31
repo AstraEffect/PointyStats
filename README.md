@@ -1,0 +1,2 @@
+# PointyStats
+Graphical pointy statistics
